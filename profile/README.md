@@ -1,2 +1,2 @@
 # Banabyte Network
-We make gameservers
+We provide Affordable & High Power game servers across the US & AU
