@@ -1,2 +1,2 @@
 # .github
-Profile Files
+You're not supposed to be here. Please leave immediately.
