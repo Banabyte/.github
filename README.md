@@ -1,3 +1,3 @@
 # .github
 This project displays the Github profile description. 
-> The readme is here to discribe the github organization 
+> The readme is here to discribe the .github file
