@@ -1,2 +1,3 @@
-# Banabyte Network
-We provide affordable & high-power game servers in the United States and Australia.
+# Banabyte's Github Pipeline
+> Welcome to Banabyte Github page
+A Github Pipeline Dedicated towards pushing updates towards our servers and projects.
